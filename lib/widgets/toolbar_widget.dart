@@ -23,7 +23,7 @@ class ToolbarWidget extends ConsumerWidget {
             child: Text(
               onCompletedTodoCount == 0 
                 ? 'All Todos Completed.'
-                : onCompletedTodoCount.toString() + " görev tamamlanmadi ", 
+                : onCompletedTodoCount.toString() + " Task Waiting ", 
             overflow: TextOverflow.ellipsis
             ),
           ),
