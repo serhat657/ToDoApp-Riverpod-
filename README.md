@@ -1,16 +1,37 @@
-# todo_provider
+# To do app
 
-A new Flutter project.
+This project is a To Do application created to help remind and manage simple tasks.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Adding, updating, and deleting tasks
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Marking tasks as completed
+
+✅ Viewing the task list
+
+
+  
+## ❓Usage
+
+✅ Adding a Task:
+
+Click the "What's your plan today " button to add a new task and enter the required information.
+
+✅ Updating a Task:
+
+To update a task, click on the relevant task from the task list and update the information.
+
+✅ Deleting a Task:
+
+To delete a task, click on the relevant task from the task list and swipe it to the right or left.
+
+  
+## Contributors
+
+We welcome your contributions! Please send a pull request or open an issue.
+  
+## Contact
+For questions or suggestions, you can send an email to serhat655_655@hotmail.com
