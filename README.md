@@ -2,6 +2,9 @@
 
 This project is a To Do application created to help remind and manage simple tasks.
 
+## Screen Shots 
+![Ekran Görüntüsü (4)](https://github.com/user-attachments/assets/0169068c-7dab-42a3-98ff-a4acb3c72736)
+
 
 ## Features
 
